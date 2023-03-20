@@ -28,7 +28,7 @@ This handler was made by me
 
 # <a id="config"></a>⚙ » Config
 
-If you want to configure the file [config.js](https://github.com/002-sans/Naoki-Bot-Perso/blob/main/config.js), tu peux suivre l'exemple:
+If you want to configure the file [config.js](https://github.com/002-sans/Naoki-Bot-Perso/blob/main/config.js), you can follow the example:
 
 ```js
 {
