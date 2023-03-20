@@ -1,0 +1,14 @@
+{
+  "name": "simple-handler",
+  "version": "1.0.0",
+  "description": "Handler discord.js@13.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zrSadek",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "moment": "^2.29.3"
+  }
+}
